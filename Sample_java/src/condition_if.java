@@ -12,7 +12,7 @@ public class condition_if {
 	if (Pass.equals("1234")) {
 	    System.out.println("Login Success");
 	} else {
-	    System.out.println("Login Failed, please try again");
+	    System.out.println("Login Failed, check password again");
 	}
     }
 
